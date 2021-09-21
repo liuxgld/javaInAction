@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hello.xlass">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hello.xlass.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
